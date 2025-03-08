@@ -3,3 +3,5 @@
 "*.doc" 
 "*.docx" 
 "*.doc" 
+"branch-protection.json" 
+"develop-protection.json" 
